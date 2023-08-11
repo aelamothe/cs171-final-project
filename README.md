@@ -1,6 +1,8 @@
 # A Cover Worth 1000 Words 
 This repo holds the final visualization project for CS171. Using data from Google’s Vision API, and the GoodBooks data set compiled by zygmuntz on GitHub, we’ve explored how the aesthetic features of color and symbols vary across book covers of different genres, and how these variances might affect a user’s perception of the book.
 
+NOTE FROM ANASTASIA (CONTRIBUTOR): This project was made using my former college email address, which I have since lost access to. Please rest assured that the owners of the alamothe@college.harvard.edu and aelamothe@gmail.com are one and the same.
+
 # How is this repo organized?
 We have organized all the files in the following directory structure
 
@@ -21,7 +23,7 @@ Screencast:
 https://youtu.be/qVMfxGXjMpg
 
 Final website:
-http://isabellezheng.com/cs171-final-project/#1
+https://aelamothe.github.io/cs171-final-project/#1
 
 ## data
 This directory has the following sub directories -
